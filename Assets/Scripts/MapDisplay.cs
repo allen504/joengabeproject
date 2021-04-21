@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MapDisplay : MonoBehaviour{
     public Renderer textureRenderer;
+    //random comment
 
     public void DrawTexture(Texture2D texture){
         
